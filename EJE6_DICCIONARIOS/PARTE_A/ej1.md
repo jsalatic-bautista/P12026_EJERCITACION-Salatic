@@ -8,7 +8,8 @@ Las claves y valores pueden estar conformadas por el tipo de dato que se desee, 
 Un ejemplo de diccionario es el siguiente:
 
 
-```personas = {
+```
+personas = {
     126: "Juancito",
     233: "Pepito",
     333: "María",
